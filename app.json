@@ -5,14 +5,14 @@
     "telegram",
     "bot"
   ],
-  "repository": "https://github.com/fjgaming212/UnoXrobot",
+  "repository": "https://github.com/CybrGhostf/UnoXrobot",
   "env": {
     "BOT_TOKEN": {
-      "description": "Bot token kamu",
+      "description": "5129838949:AAFs8aMV3581fj0-pv_B_bWTVYCwwQB_JxY",
       "required": true
     },
     "ADMIN_LIST": {
-      "description": "List admin bot mu.",
+      "description": "1496541994",
       "required": true
     },
     "OPEN_LOBBY": {
